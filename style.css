@@ -1,0 +1,96 @@
+
+body{
+    margin: 0;
+    font-family: 'Merriweather', serif;
+    background-color: #E4F9F5;
+}
+.top p{
+    margin-left : 490px;
+    font-size: 25px;
+
+}
+h1{
+   margin-top : 0;
+   margin-left : 430px;
+   font-size: 60px;
+   font-family: 'Sacramento', cursive;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+.top{
+    background-color: #E4F9F5;
+    height: 900px;
+    width: 1300px;
+}
+.cloud2{
+    position: absolute;
+    bottom: 5px;
+    left: 800px;
+    top: 300px;
+}
+.hill1{
+    position: absolute;
+    left:350px
+  
+}
+.profile img{
+    width: 200px;
+    height: 200px;
+    margin-left: 500px;
+}
+.profile h2{
+      margin-left: 560px;
+}
+.profile p{
+      margin-left: 300px;
+}
+.skill1{
+    height: 140px;
+    margin-left: 520px;
+   
+}
+
+.skill2{
+      height: 140px;
+    margin-left: 520px;
+}
+
+.skills .abc1 p{
+    margin-left: 320px;
+ }
+.skills h2{
+     margin-left: 540px;
+}
+.skills .abc2 p{
+    margin-left: 290px;
+ }
+ .skills h3{
+    margin-left: 490px;
+}
+.skills .abc1 h3{
+    margin-left: 520px;
+}
+
+
+.bottom{
+    margin-left: 490px;
+}
+.contact-me .btn{
+    margin-left: 520px;
+}
+.bottom p{
+    margin-left: 20px;
+}
+.contact-me p{
+    margin-left: 500px;
+}
+.contact-me h3{
+    margin-left: 430px;
+}
+.contact-me h2{
+    margin-left:  520px;
+}
